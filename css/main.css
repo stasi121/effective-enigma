@@ -1,0 +1,643 @@
+body {
+    font-size: 14px;
+    background:#000000;
+    
+    width: 1465px;
+    height: 1280px;
+}
+.photo1 {
+    position: absolute;
+    width: 736px;
+    height: 736px;
+    left: 778px;
+    top: 388px;
+    background: url("../images/v1_14.png");
+}
+.photo2 {
+    position: absolute;
+    width: 1500px;
+    height: 206px;
+    left: 0px;
+    top: 55px;
+    background: url("../images/obl2.png");
+}
+.TextGl {
+    position: absolute;
+    width: 623px;
+    height: 260px;
+    left: 107px;
+    top: 586px;
+    font-family: 'Abhaya Libre';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 19px;
+    color: #FFFFFF;
+}
+
+.v1_7 {
+    position: absolute;
+    width: 61px;
+    height: 48px;
+    left: 370px;
+    top: 3px;
+    background: url("../images/bp.png");
+}
+.menu {
+    position: absolute;
+    width: 883px;
+    height: 55px;
+    left: 320px;
+    top: 0px;
+    background: #FFFFFF;
+    backdrop-filter: blur(5px);
+}
+.bio {
+    position: absolute;
+    width: 252px;
+    height: 39px;
+    left: 606px;
+    top: 8px;
+    font-family: 'Gabriela';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 30px;
+    line-height: 38px;
+    color: #000000;
+}
+
+.evro {
+    position: absolute;
+    width: 199px;
+    height: 38px;
+    left: 930px;
+    top: 8px;
+    font-family: 'Gabriela';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 30px;
+    line-height: 38px;
+    color: #000000;
+}
+.naz {
+    position: absolute;
+    width: 605px;
+    height: 120px;
+    left: 459px;
+    top: 98px;
+    background: #D9D9D9;
+    opacity: 0.8;
+}
+.TextNAZ {
+    position: absolute;
+    width: 503px;
+    height: 83px;
+    left: 510px;
+    top: 117px;
+    font-family: 'Abhaya Libre';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 65px;
+    line-height: 83px;
+    color: #000000;
+}
+.photo10 {
+    position: absolute;
+    width: 936px;
+    height: 636px;
+    left: 0px;
+    top: 216px;
+    background: url("../images/v1_32.png");
+}
+.photo1_2 {
+    position: absolute;
+    width: 933px;
+    height: 629px;
+    left: 936px;
+    top: 216px;
+    background: url("../images/v1_27.png");
+}
+.photo2_1 {
+    position: absolute;
+    width: 1029px;
+    height: 697px;
+    left: -93px;
+    top: 1158px;
+    background: url("../images/v1_30.png");
+}
+.photo2_2 {
+    position: absolute;
+    width: 933px;
+    height: 631px;
+    left: 936px;
+    top: 1158px;
+    background: url("../images/v1_22.png");
+}
+
+
+.TextEv161 {
+    position: absolute;
+    width: 800px;
+    height: 269px;
+    left: 1014px;
+    top: 914px;
+    font-family: 'Abhaya Libre';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 19px;
+    color: #000000;
+}
+.TextEv191 {
+    position: absolute;
+    width: 768px;
+    height: 196px;
+    left: 73px;
+    top: 914px;
+    font-family: 'Abhaya Libre';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 19px;
+    color: #FFFFFF;
+}
+
+.bel1 {
+    position: absolute;
+    width: 1005px;
+    height: 2827px;
+    left: 936px;
+    top: 91px;
+    background: #FFFFFF;
+}
+.bel2 {
+    position: absolute;
+    width: 2087px;
+    height: 236px;
+    left: -29px;
+    top: -20px;
+    background: #FFFFFF;
+}
+.TextEv162 {
+    position: absolute;
+    width: 800px;
+    height: 345px;
+    left: 1014px;
+    top: 1855px;
+    font-family: 'Abhaya Libre';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 19px;
+    color: #000000;
+}
+.TextEv192 {
+    position: absolute;
+    width: 830px;
+    height: 456px;
+    left: 73px;
+    top: 1855px;
+    font-family: 'Abhaya Libre';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 19px;
+    color: #FFFFFF;
+}
+.TextEvro {
+    position: absolute;
+    width: 873px;
+    height: 93px;
+    left: 592px;
+    top: 86px;
+    font-family: 'Abhaya Libre';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 19px;
+    color: #000000;
+}
+.TextEvroGl {
+    position: absolute;
+    width: 317px;
+    height: 61px;
+    left: 870px;
+    top: 0px;
+    font-family: 'Gabriela';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 48px;
+    line-height: 61px;
+    text-align: center;
+    color: #000000;
+}
+
+
+.detstvoGl {
+    position: absolute;
+    width: 1633px;
+    height: 313px;
+    left: 0px;
+    top: 94px;
+    background: url("../images/detstvo.png");
+}
+.TextDet1 {
+    position: absolute;
+    width: 723px;
+    height: 250px;
+    left: 68px;
+    top: 417px;
+    font-family: 'Abhaya Libre';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 21px;
+    color: #FFF7F7;
+}
+.Mat {
+    position: absolute;
+    width: 673px;
+    height: 418px;
+    left: 920px;
+    top: 453px;
+    background: url( "../images/v1_57.png")
+}
+.TextDet2 {
+    position: absolute;
+    width: 673px;
+    height: 144px;
+    left: 920px;
+    top: 891px;
+    font-family: 'Abhaya Libre';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 21px;
+    color: #FFFFFF;
+}
+
+.biog {
+    position: absolute;
+    width: 1826px;
+    height: 135px;
+    left: -46px;
+    top: -40px;
+    background: #FFFFFF;
+}
+
+.TextBiog {
+    position: absolute;
+    width: 269px;
+    height: 61px;
+    left: 726px;
+    top: 0px;
+    font-family: 'Gabriela';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 48px;
+    line-height: 61px;
+    text-align: center;
+    color: #000000;
+}
+.Det {
+    position: absolute;
+    width: 487px;
+    height: 110px;
+    left: 617px;
+    top: 195px;
+    background: #D9D9D9;
+    opacity: 0.9;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+.TextDet {
+    position: absolute;
+    width: 182px;
+    height: 61px;
+    left: 769px;
+    top: 220px;
+    font-family: 'Gabriela';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 48px;
+    line-height: 61px;
+    text-align: center;
+    color: #000000;
+}
+.det2 {
+    position: absolute;
+    width: 640px;
+    height: 439px;
+    left: 61px;
+    top: 704px;
+    background: url( "../images/v1_63.png")
+}
+.NeposedGl {
+    position: absolute;
+    width: 1639px;
+    height: 313px;
+    left: 55px;
+    top: 1181px;
+    background: url( "../images/neposed.png")
+}
+.nep {
+    position: absolute;
+    width: 487px;
+    height: 110px;
+    left: 617px;
+    top: 1268px;
+    background: #D9D9D9;
+    opacity: 0.9;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+.Textnep {
+    position: absolute;
+    width: 242px;
+    height: 61px;
+    left: 739px;
+    top: 1293px;
+    font-family: 'Gabriela';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 48px;
+    line-height: 61px;
+    text-align: center;
+    color: #000000;
+}
+.Textnep1 {
+    position: absolute;
+    width: 725px;
+    height: 291px;
+    left: 60px;
+    top: 1554px;
+    font-family: 'Abhaya Libre';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 21px;
+    color: #FFFFFF;
+}
+.Textnep2 {
+    position: absolute;
+    width: 655px;
+    height: 187px;
+    left: 938px;
+    top: 2175px;
+    font-family: 'Abhaya Libre';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 21px;
+    color: #FFFFFF;
+}
+.nep1 {
+    position: absolute;
+    width: 655px;
+    height: 526px;
+    left: 938px;
+    top: 1535px;
+    background: url( "../images/v1_68.png")
+}
+.nep2 {
+    position: absolute;
+    width: 723px;
+    height: 588px;
+    left: 64px;
+    top: 1831px;
+    background: url( "../images/v1_69.png")
+}
+.smashGL {
+    position: absolute;
+    width: 1627px;
+    height: 313px;
+    left: 60px;
+    top: 2508px;
+    background: url( "../images/smash.png")
+}
+.sm {
+    position: absolute;
+    width: 487px;
+    height: 110px;
+    left: 617px;
+    top: 2614px;
+    background: #D9D9D9;
+    opacity: 0.9;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+.TextSm {
+    position: absolute;
+    width: 180px;
+    height: 61px;
+    left: 770px;
+    top: 2631px;
+    font-family: 'Gabriela';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 48px;
+    line-height: 61px;
+    text-align: center;
+    color: #000000;
+}
+.TextSm1 {
+    position: absolute;
+    width: 729px;
+    height: 242px;
+    left: 58px;
+    top: 2884px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 22px;
+    color: #FFFFFF;
+}
+.TextSm2 {
+    position: absolute;
+    width: 655px;
+    height: 329px;
+    left: 938px;
+    top: 3424px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 22px;
+    color: #FFFFFF;
+}
+.smash1 {
+    position: absolute;
+    width: 655px;
+    height: 505px;
+    left: 938px;
+    top: 2848px;
+    background: url( "../images/v1_78.png")
+}
+.smash2 {
+    position: absolute;
+    width: 727px;
+    height: 533px;
+    left: 60px;
+    top: 3282px;
+    background: url( "../images/v1_85.png")
+}
+
+.soloGL {
+    position: absolute;
+    width: 1630px;
+    height: 313px;
+    left: 61px;
+    top: 3950px;
+    background: url( "../images/solo.png")
+}
+.sl {
+    position: absolute;
+    width: 487px;
+    height: 110px;
+    left: 617px;
+    top: 4051px;
+    background: #D9D9D9;
+    opacity: 0.9;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+.TextSl {
+    position: absolute;
+    width: 413px;
+    height: 61px;
+    left: 654px;
+    top: 4076px;
+    font-family: 'Gabriela';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 48px;
+    line-height: 61px;
+    text-align: center;
+    color: #000000;
+}
+.TextSolo1 {
+    position: absolute;
+    width: 729px;
+    height: 276px;
+    left: 58px;
+    top: 4327px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 22px;
+    color: #FFFFFF;
+}
+.TextSolo2 {
+    position: absolute;
+    width: 654px;
+    height: 445px;
+    left: 942px;
+    top: 5127px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 22px;
+    color: #FFFFFF;
+}
+.solo1 {
+    position: absolute;
+    width: 600px;
+    height: 600px;
+    left: 938px;
+    top: 4315px;
+    background: url( "../images/v1_83.png")
+}
+.solo2 {
+    position: absolute;
+    width: 725px;
+    height: 701px;
+    left: 62px;
+    top: 4620px;
+    background: url( "../images/v1_81.png")
+}
+.TextSolo5 {
+    position: absolute;
+    width: 726px;
+    height: 649px;
+    left: 58px;
+    top: 6657px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 22px;
+    color: #FFFFFF;
+}
+.TextSolo4 {
+    position: absolute;
+    width: 655px;
+    height: 413px;
+    left: 941px;
+    top: 6188px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 22px;
+    color: #FFFFFF;
+}
+.TextSolo3 {
+    position: absolute;
+    width: 729px;
+    height: 456px;
+    left: 59px;
+    top: 5508px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 22px;
+    color: #FFFFFF;
+}
+.solo3 {
+    position: absolute;
+    width: 655px;
+    height: 554px;
+    left: 938px;
+    top: 5557px;
+    background: url( "../images/v1_82.png")
+}
+.solo4 {
+    position: absolute;
+    width: 726px;
+    height: 611px;
+    left: 62px;
+    top: 6033px;
+    background: url( "../images/v1_96.png")
+}
+.solo5 {
+    position: absolute;
+    width: 881px;
+    height: 760px;
+    left: 813px;
+    top: 6628px;
+    background: url( "../images/v1_98.png")
+}
+.End1 {
+    position: absolute;
+    width: 712px;
+    height: 639px;
+    left: 0px;
+    top: 7444px;
+    background: url( "../images/v1_103.png")
+}
+.End2 {
+    position: absolute;
+    width: 759px;
+    height: 639px;
+    left: 494px;
+    top: 7444px;
+    background: url( "../images/v1_99.png")
+}
+.End3 {
+    position: absolute;
+    width: 690px;
+    height: 639px;
+    left: 1132px;
+    top: 7444px;
+    background: url( "../images/v1_100.png")
+}
